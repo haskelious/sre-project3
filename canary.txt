@@ -1,0 +1,40 @@
+/ $ curl 172.20.231.215
+<html>
+<h1>This is version 2</h1>
+</html>
+/ $ curl 172.20.231.215
+<html>
+<h1>This is version 2</h1>
+</html>
+/ $ curl 172.20.231.215
+<html>
+<h1>This is version 2</h1>
+</html>
+/ $ curl 172.20.231.215
+<html>
+<h1>This is version 1</h1>
+</html>
+/ $ curl 172.20.231.215
+<html>
+<h1>This is version 1</h1>
+</html>
+/ $ curl 172.20.231.215
+<html>
+<h1>This is version 2</h1>
+</html>
+/ $ curl 172.20.231.215
+<html>
+<h1>This is version 1</h1>
+</html>
+/ $ curl 172.20.231.215
+<html>
+<h1>This is version 1</h1>
+</html>
+/ $ curl 172.20.231.215
+<html>
+<h1>This is version 2</h1>
+</html>
+/ $ curl 172.20.231.215
+<html>
+<h1>This is version 1</h1>
+</html>
